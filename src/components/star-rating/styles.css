@@ -1,0 +1,14 @@
+.star-rating-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    color:#3b4043;
+}
+
+.active{
+    color: #fff700;
+}
+.inactive{
+    color: #000;
+}
